@@ -1,0 +1,22 @@
+{
+  "name": "react_nodejs_mysql_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LongHoangPham0/reactjs_nodejs_mysql_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LongHoangPham0/reactjs_nodejs_mysql_project/issues"
+  },
+  "homepage": "https://github.com/LongHoangPham0/reactjs_nodejs_mysql_project#readme",
+  "dependencies": {
+    "express": "^4.7.1"
+  }
+}
